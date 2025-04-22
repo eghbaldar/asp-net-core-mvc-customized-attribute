@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|c:\\users\\kinh\\desktop\\aspnetcoremvccustomizedaattribute\\aspnetcoremvccustomizedaattribute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|solutionrelative:aspnetcoremvccustomizedaattribute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|c:\\users\\kinh\\desktop\\aspnetcoremvccustomizedaattribute\\aspnetcoremvccustomizedaattribute\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|solutionrelative:aspnetcoremvccustomizedaattribute\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|c:\\users\\kinh\\desktop\\aspnetcoremvccustomizedaattribute\\aspnetcoremvccustomizedaattribute\\cookieaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|solutionrelative:aspnetcoremvccustomizedaattribute\\cookieaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|c:\\users\\kinh\\desktop\\aspnetcoremvccustomizedaattribute\\aspnetcoremvccustomizedaattribute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|solutionrelative:aspnetcoremvccustomizedaattribute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|c:\\users\\kinh\\desktop\\aspnetcoremvccustomizedaattribute\\aspnetcoremvccustomizedaattribute\\views\\home\\parapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA5A146-C252-4F97-925E-F1783E058F54}|ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute.csproj|solutionrelative:aspnetcoremvccustomizedaattribute\\views\\home\\parapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T12:12:46.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASPNETCOREMVCCustomizedAattribute\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ASPNETCOREMVCCustomizedAattribute\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:53:11.788Z",
+              "WhenOpened": "2025-04-22T12:31:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParaPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\ParaPage.cshtml",
+              "RelativeDocumentMoniker": "ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\ParaPage.cshtml",
+              "ToolTip": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\ParaPage.cshtml",
+              "RelativeToolTip": "ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\ParaPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T12:31:07.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CookieAccessAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\CookieAccessAttribute.cs",
-              "RelativeDocumentMoniker": "ASPNETCOREMVCCustomizedAattribute\\CookieAccessAttribute.cs",
-              "ToolTip": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\CookieAccessAttribute.cs",
-              "RelativeToolTip": "ASPNETCOREMVCCustomizedAattribute\\CookieAccessAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:25:34.16Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kinh\\Desktop\\ASPNETCOREMVCCustomizedAattribute\\ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPNETCOREMVCCustomizedAattribute\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCoAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T12:27:53.93Z",
               "EditorCaption": ""
             }
           ]

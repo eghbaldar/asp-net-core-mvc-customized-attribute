@@ -1,6 +1,7 @@
 using ASPNETCOREMVCCustomizedAattribute.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using static ASPNETCOREMVCCustomizedAattribute.ParaAccessAttributeEnum;
 
 namespace ASPNETCOREMVCCustomizedAattribute.Controllers
 {
@@ -35,5 +36,10 @@ namespace ASPNETCOREMVCCustomizedAattribute.Controllers
             return RedirectToAction("ProtectedPage2");
         }
 
+        [ParaAccess(UserRole.Admin)]
+        public IActionResult ParaPage()
+        {
+            return View();
+        }
     }
 }
