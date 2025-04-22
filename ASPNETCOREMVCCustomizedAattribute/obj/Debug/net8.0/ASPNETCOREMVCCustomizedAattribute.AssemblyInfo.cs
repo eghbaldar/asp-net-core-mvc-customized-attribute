@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCOREMVCCustomizedAattribute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e7ec0b08436507f63b3da78280e5f5ad9c5157f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2307f880dabb5043f704b31d1896a28a0ae080f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNETCOREMVCCustomizedAattribute")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCOREMVCCustomizedAattribute")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

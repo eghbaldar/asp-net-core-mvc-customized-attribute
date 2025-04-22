@@ -29,7 +29,7 @@ namespace ASPNETCOREMVCCustomizedAattribute.Controllers
             {
                 HttpOnly = true,
                 Secure = true,
-                Expires = DateTimeOffset.UtcNow.AddHours(1)
+                Expires = DateTimeOffset.UtcNow.AddMinutes(1)
             });
 
             return RedirectToAction("ProtectedPage2");
