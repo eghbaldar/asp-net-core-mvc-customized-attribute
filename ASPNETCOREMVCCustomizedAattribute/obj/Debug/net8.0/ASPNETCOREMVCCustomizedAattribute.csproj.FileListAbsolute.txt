@@ -28,3 +28,4 @@ C:\Users\Kinh\Desktop\ASPNETCOREMVCCustomizedAattribute\ASPNETCOREMVCCustomizedA
 C:\Users\Kinh\Desktop\ASPNETCOREMVCCustomizedAattribute\ASPNETCOREMVCCustomizedAattribute\obj\Debug\net8.0\ASPNETCOREMVCCustomizedAattribute.pdb
 C:\Users\Kinh\Desktop\ASPNETCOREMVCCustomizedAattribute\ASPNETCOREMVCCustomizedAattribute\obj\Debug\net8.0\ASPNETCOREMVCCustomizedAattribute.genruntimeconfig.cache
 C:\Users\Kinh\Desktop\ASPNETCOREMVCCustomizedAattribute\ASPNETCOREMVCCustomizedAattribute\obj\Debug\net8.0\ref\ASPNETCOREMVCCustomizedAattribute.dll
+C:\Users\Kinh\Desktop\ASPNETCOREMVCCustomizedAattribute\ASPNETCOREMVCCustomizedAattribute\obj\Debug\net8.0\ASPNETCOREMVCCustomizedAattribute.sourcelink.json

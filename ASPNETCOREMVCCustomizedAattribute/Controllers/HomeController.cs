@@ -6,13 +6,6 @@ namespace ASPNETCOREMVCCustomizedAattribute.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
             return View();
@@ -20,15 +13,27 @@ namespace ASPNETCOREMVCCustomizedAattribute.Controllers
 
         [HttpGet]
         [CustomAccess]
-        public IActionResult Privacy()
+        public IActionResult ProtectedPage1()
         {
             return View();
         }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpGet]
+        [CookieAccess]
+        public IActionResult ProtectedPage2()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
+        public IActionResult SetAccessCookie()
+        {
+            Response.Cookies.Append("HasAccess", "true", new CookieOptions
+            {
+                HttpOnly = true,
+                Secure = true,
+                Expires = DateTimeOffset.UtcNow.AddHours(1)
+            });
+
+            return RedirectToAction("ProtectedPage2");
+        }
+
     }
 }
